@@ -1,9 +1,9 @@
 # Luxundu-linux-project-work-in-progress-
-a ubuntu linux based operating system with average ram usage of 400-490 mb and the known issues is that in live boot it shows ubuntu server and not working fastfetch
+a ubuntu linux based operating system with average ram usage of 400-490 mb and the known issues is that in live boot it shows ubuntu server and not working fastfetch (probably working in root)
 
 
 Download Link : https://mega.nz/file/8RYUEKwS#DTDZMq-xiGQuNO9Ku7DkHqA6aQxoXfSwJXdTfe9eMiU
-
+Download Link (icewm version) : https://mega.nz/file/YERFCQJb#N_44HclcUabQl0Q1eTHeuAwXzfr5ygT2Lxn6Ajcz9vk
 Installation guide: download the ISO and flash it on to a USB drive using Rufus or balena etcher 
 then boot into the live environment 
 open the terminal and type : sudo subiquity
